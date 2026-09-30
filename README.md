@@ -1,38 +1,35 @@
 <div align="center">
 
-# 🌸 Hi, I'm Apurvi Gupta 🎀
+# 🎀 Hi, I'm Apurvi Gupta 🌸
 
-💗 B.Tech CSE (AI) Student | ☕ Java Developer | 💻 DSA Enthusiast  
-📈 200+ LeetCode Problems Solved  
-🚀 Exploring Backend Development with Spring Boot, REST APIs & FastAPI  
-🎯 Aspiring Software Development Engineer
+### 💗 B.Tech CSE (AI) Student | Java Developer | DSA Enthusiast
 
-</div>
+🌷 Passionate about problem-solving, backend development, and building meaningful projects.  
+☕ Currently strengthening Java, DSA, Spring Boot, REST APIs, DBMS, and backend development.  
+📈 Solved 200+ LeetCode problems with consistent practice.  
+🎯 Aspiring Software Development Engineer.
 
-## 🌷 About Me
+---
 
-- ☕ Strong interest in **Java, DSA & Backend Development**
-- 🧠 Focused on problem-solving and writing optimized solutions
-- 💻 Building real-world projects alongside consistent coding practice
-- 🌱 Currently strengthening **Spring Boot, REST APIs, DBMS & System Design basics**
+## 🌸 Achievements
 
-## 🏆 Achievements
+🏆 Received the **Most Impactful Idea Award**  
+🔥 Earned the **LeetCode 100 Days Badge**  
+💻 Solved **200+ DSA problems on LeetCode**  
+🚀 Building projects in AI, backend development, and problem-solving
 
-- 🏅 Received the **Most Impactful Idea Award**
-- 🔥 Earned the **LeetCode 100 Days Badge**
-- 📈 Solved **200+ problems on LeetCode**
-- 🚀 Actively building projects in AI, backend development and problem-solving
+---
 
-## 🛠️ Tech Stack
+## 🎀 What I'm Working On
 
-![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFB6C1?style=for-the-badge&logo=springboot&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+🌷 Data Structures & Algorithms in Java  
+🌷 Java Backend Development  
+🌷 Spring Boot & REST APIs  
+🌷 FastAPI & PostgreSQL  
+🌷 Real-world AI-based projects
 
-<div align="center">
+---
 
-### 🌸 Code • Learn • Build • Improve 🌸
+### 💗 Code • Learn • Build • Improve 💗
 
 </div>
